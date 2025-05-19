@@ -165,12 +165,12 @@ $page_title = 'Chi siamo - MEDLINE';
 
     <div class="row">
       <div class="col-4">
-        <img src="https://storage.googleapis.com/a1aa/image/combined-icons-medical.png"
+        <img src="immagini/sanita.jpg"
              alt="Icone mediche combinate">
       </div>
       <div class="col-8">
         <p>Il nostro team è composto da professionisti appassionati del loro lavoro, che mettono al primo posto la tua salute e il tuo benessere. Farmacisti esperti, sviluppatori software all'avanguardia e un team di customer care sempre disponibile: siamo un gruppo affiatato e determinato a offrirti il miglior servizio possibile.</p>
-        <p>La nostra storia inizia da [inserisci l'anno], quando ci siamo resi conto dell'esigenza crescente di servizi sanitari a domicilio. Da allora, non abbiamo mai smesso di innovare e migliorare, per offrirti un'esperienza sempre più personalizzata e soddisfacente.</p>
+        <p>La nostra storia inizia dal 2024, quando ci siamo resi conto dell'esigenza crescente di servizi sanitari a domicilio. Da allora, non abbiamo mai smesso di innovare e migliorare, per offrirti un'esperienza sempre più personalizzata e soddisfacente.</p>
         <p>Unisciti alla nostra community e scopri come possiamo semplificare la tua vita!</p>
       </div>
     </div>
