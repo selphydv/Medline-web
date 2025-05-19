@@ -1,0 +1,10 @@
+# file di configurazione locali
+config.php
+
+# cartelle di sistema
+/vendor/
+/node_modules/
+
+# file di log, cache, dump
+*.log
+*.cache
