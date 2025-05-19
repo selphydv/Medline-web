@@ -1,6 +1,6 @@
 <?php
-require __DIR__.'../config.php';
-include __DIR__.'../header.php';
+require __DIR__ . '/config.php';
+include __DIR__ . '/header.php';
 $page_title = 'Prenotazioni - MEDLINE';
 if(!isset($_SESSION['user_id'])) redirect('login.php');
 
@@ -120,4 +120,4 @@ if(!isset($_SESSION['user_id'])) redirect('login.php');
   <!-- Bootstrap Icons -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
-<?php include __DIR__.'../footer.php'; ?>
+<?php include __DIR__ . '/footer.php'; ?>

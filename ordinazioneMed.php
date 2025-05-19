@@ -1,8 +1,8 @@
 <?php
 // public/ordinazioneMed.php
-require __DIR__ . '../config.php';
+require __DIR__ . '/config.php';
 $page_title = 'Ordinazioni - MEDLINE';
-include __DIR__ . '../header.php';
+include __DIR__ . '/header.php';
 
 // Protezione: solo utenti loggati
 if (!isset($_SESSION['user_id'])) {
@@ -294,4 +294,4 @@ window.addEventListener('DOMContentLoaded', ()=> rxDiv.style.display = medSel.va
 
 <div style="padding-bottom: 350px;"></div>
 
-<?php include __DIR__ . '../footer.php'; ?>
+<?php include __DIR__ . '/footer.php'; ?>

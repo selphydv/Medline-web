@@ -1,6 +1,6 @@
 <?php
-require __DIR__.'../config.php';
-include __DIR__.'../header.php';
+require __DIR__ . '/config.php';
+include __DIR__ . '/header.php';
 $page_title = 'Login - MEDLINE';
 
 
@@ -105,4 +105,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-<?php include __DIR__.'../footer.php'; ?>
+<?php include __DIR__ . '/footer.php'; ?>

@@ -1,6 +1,6 @@
 <?php
-require __DIR__.'../config.php';
-include __DIR__.'../header.php';
+require __DIR__ . '/config.php';
+include __DIR__ . '/header.php';
 $page_title = 'FAQ - MEDLINE';
 
 ?>
@@ -90,4 +90,4 @@ $page_title = 'FAQ - MEDLINE';
 <div style="padding-bottom: 300px"></div>
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-<?php include __DIR__.'../footer.php'; ?>
+<?php include __DIR__ . '/footer.php'; ?>

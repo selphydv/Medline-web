@@ -1,9 +1,9 @@
 <?php
-require __DIR__.'../config.php';
+require __DIR__ . '/config.php';
 if(!isset($_SESSION['user_id'])) redirect('login.php');
 
 $page_title = 'Tracciamento - MEDLINE';
-include __DIR__.'../header.php';
+include __DIR__ . '/header.php';
 ?>
 
 <!-- Page-specific Styles -->
@@ -184,4 +184,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 </script>
-<?php include __DIR__.'../footer.php'; ?>
+<?php include __DIR__ . '/footer.php'; ?>

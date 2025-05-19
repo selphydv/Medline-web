@@ -1,6 +1,6 @@
 <?php
-require __DIR__.'../config.php';
-include __DIR__.'../header.php';
+require __DIR__ . '/config.php';
+include __DIR__ . '/header.php';
 $page_title = 'Chi siamo - MEDLINE';
 
 ?>
@@ -184,4 +184,4 @@ $page_title = 'Chi siamo - MEDLINE';
 
 
 
-<?php include __DIR__.'../footer.php'; ?>
+<?php include __DIR__ . '/footer.php'; ?>

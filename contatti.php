@@ -1,6 +1,6 @@
 <?php
-require __DIR__.'../config.php';
-include __DIR__.'../header.php';
+require __DIR__ . '/config.php';
+include __DIR__ . '/header.php';
 $page_title = 'Contatti - MEDLINE';
 
 ?>
@@ -49,4 +49,4 @@ $page_title = 'Contatti - MEDLINE';
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
 
-  <?php include __DIR__.'../footer.php'; ?>
+<?php include __DIR__ . '/footer.php'; ?>
